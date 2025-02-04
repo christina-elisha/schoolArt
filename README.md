@@ -1,5 +1,5 @@
-# schoolArt
-postcard, event brochure designs for a school 
+# school stationary design
+postcard, an event brochure, webIcon for TaylorPark
 
 ![list](WinterFantasyProgramDesign.pdf)
 ![list](school-poster.pdf)
